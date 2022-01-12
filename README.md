@@ -1,3 +1,3 @@
 # Swift_Projects
 
-1. [Memorize!]() - Simple Card game
+1. [Memorize!]() - Simple Card game (Early Demo)
